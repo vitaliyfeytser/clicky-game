@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vitaliyfeytser/clicky-game/",
+  "homepage": "https://vitaliyfeytser.github.io/vitaliyfeytser/clicky-game",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
