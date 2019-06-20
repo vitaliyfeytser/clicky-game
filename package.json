@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/vitaliyfeytser/clicky-game",
+  "homepage": "https://github.com/vitaliyfeytser/clicky-game/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
@@ -11,9 +11,9 @@
     "yarn": "^1.16.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
