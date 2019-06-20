@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Coca-Cola",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180705/gir/kisspng-braille-tactile-alphabet-ladin-alphabet-writing-sy-braile-5b3e75a9531889.7944414015308200093404.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Texaco",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180630/sqt/kisspng-refreshable-braille-display-tactile-alphabet-writi-5b38307f0d8772.0066270815304090870554.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Starbucks",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180714/khc/kisspng-braille-ladin-alphabet-letter-c-lower-third-5b49a0bd83f136.6635865415315519335405.jpg"
+  },
+  {
+    "id": 4,
+    "name": "GE",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180708/jgb/kisspng-refreshable-braille-display-alphabet-writing-syste-dimensional-characters-26-english-letters-5b42076018b708.2523397315310539201012.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Wilson",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180708/eat/kisspng-braille-tactile-alphabet-letter-je-dimensional-characters-26-english-letters-5b420751c68ab6.0708210915310539058132.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Volkswagen",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180630/yy/kisspng-english-braille-writing-system-letter-5b3831417de470.4553863715304092815157.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Beats",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180705/te/kisspng-braille-encyclopedia-alphabet-enciclopedia-libre-u-braille-5b3e0757d39ed8.0865948215307917678668.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Apple",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180723/gjo/kisspng-spanish-braille-alphabet-writing-system-blindness-5b558e9f731995.6154060215323337274715.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pinterest",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180630/uky/kisspng-braille-tactile-alphabet-letter-je-5b38310c0c7230.410916091530409228051.jpg"
+  },
+  {
+    "id": 10,
+    "name": "NBC",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180607/uqp/kisspng-braille-coupvray-tactile-alphabet-writing-system-5b18f28862ff52.3644768515283616084055.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Twitter",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180714/pez/kisspng-braille-tactile-alphabet-je-letter-dimensional-characters-26-english-letters-5b4ac0cb9dce39.5309253015316256756464.jpg"
+  },
+  {
+    "id": 12,
+    "name": "WWF",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180708/zs/kisspng-braille-alphabet-blindness-letter-writing-system-dimensional-characters-26-english-letters-5b42077cd4e184.831221771531053948872.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Intel",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180705/jvh/kisspng-braille-tactile-alphabet-m-letter-braile-5b3e75a96a6631.3993575815308200094358.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Sony",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180630/vbu/kisspng-english-braille-alphabet-letter-5b38315c6920b1.8940465315304093084306.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ebay",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180430/die/kisspng-braille-tactile-alphabet-writing-system-blindness-5ae71472e504b9.6488102315250934909381.jpg"
+  },
+  {
+    "id": 16,
+    "name": "WhatsApp",
+    "clicked": false,
+    "image":
+      "https://banner2.kisspng.com/20180630/rq/kisspng-braille-tactile-alphabet-wikimedia-commons-letter-dots-background-5b37a9366db552.9311200915303744544494.jpg"
+  }
+]
+
